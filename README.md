@@ -28,7 +28,8 @@ Edit
 $ gobuster dir -u http://example.com/ -w web-common-updated.txt
 
 
-![image](https://github.com/user-attachments/assets/43f0b358-3ff2-4cab-9ab8-c235de73313a)
+<img width="814" height="322" alt="2009-06-example-31" src="https://github.com/user-attachments/assets/49238b39-ad5f-42e2-8f43-ce22bd0e8511" />
+
 
 $ python3 scanner.py -u http://target.com -w web-common-updated.txt
 
