@@ -28,8 +28,6 @@ Edit
 $ gobuster dir -u http://example.com/ -w web-common-updated.txt
 
 
-![image](https://github.com/user-attachments/assets/43f0b358-3ff2-4cab-9ab8-c235de73313a)
-
 $ python3 scanner.py -u http://target.com -w web-common-updated.txt
 
 $ python3 scanner.py -u http://target.com -w web-common-updated.txt -t 30 --proxy http://127.0.0.1:8080 --user-agent "CustomScanner/1.0" --output results.txt
